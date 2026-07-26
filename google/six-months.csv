@@ -1,6 +1,6 @@
 ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,100.0%
-5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,37.8%,62.5%
+1,https://leetcode.com/problems/two-sum,Two Sum,Easy,+,100.0%
+5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,+,62.5%
 7,https://leetcode.com/problems/reverse-integer,Reverse Integer,Medium,31.9%,62.5%
 10,https://leetcode.com/problems/regular-expression-matching,Regular Expression Matching,Hard,31.0%,37.5%
 11,https://leetcode.com/problems/container-with-most-water,Container With Most Water,Medium,60.0%,62.5%
