@@ -5,7 +5,7 @@ ID,URL,Title,Difficulty,Acceptance %,Frequency %
 10,https://leetcode.com/problems/regular-expression-matching,Regular Expression Matching,Hard,31.0%,37.5%
 11,https://leetcode.com/problems/container-with-most-water,Container With Most Water,Medium,+,62.5%
 12,https://leetcode.com/problems/integer-to-roman,Integer to Roman,Medium,+,37.5%
-16,https://leetcode.com/problems/3sum-closest,3Sum Closest,Medium,48.6%,37.5%
+16,https://leetcode.com/problems/3sum-closest,3Sum Closest,Medium,+,37.5%
 23,https://leetcode.com/problems/merge-k-sorted-lists,Merge k Sorted Lists,Hard,59.6%,37.5%
 32,https://leetcode.com/problems/longest-valid-parentheses,Longest Valid Parentheses,Hard,38.8%,37.5%
 48,https://leetcode.com/problems/rotate-image,Rotate Image,Medium,80.1%,50.0%
