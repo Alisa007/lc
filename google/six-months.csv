@@ -15,7 +15,7 @@ ID,URL,Title,Difficulty,Acceptance %,Frequency %
 4,https://leetcode.com/problems/median-of-two-sorted-arrays,Median of Two Sorted Arrays,Hard,46.6%,75.0%
 118,https://leetcode.com/problems/pascals-triangle,Pascal's Triangle,Easy,+,50.0%
 124,https://leetcode.com/problems/binary-tree-maximum-path-sum,Binary Tree Maximum Path Sum,Hard,42.3%,37.5%
-128,https://leetcode.com/problems/longest-consecutive-sequence,Longest Consecutive Sequence,Medium,47.1%,62.5%
+128,https://leetcode.com/problems/longest-consecutive-sequence,Longest Consecutive Sequence,Medium,+,62.5%
 130,https://leetcode.com/problems/surrounded-regions,Surrounded Regions,Medium,45.3%,37.5%
 138,https://leetcode.com/problems/copy-list-with-random-pointer,Copy List with Random Pointer,Medium,62.9%,25.0%
 198,https://leetcode.com/problems/house-robber,House Robber,Medium,53.2%,50.0%
