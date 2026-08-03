@@ -10,7 +10,7 @@ ID,URL,Title,Difficulty,Acceptance %,Frequency %
 32,https://leetcode.com/problems/longest-valid-parentheses,Longest Valid Parentheses,Hard,38.8%,37.5%
 48,https://leetcode.com/problems/rotate-image,Rotate Image,Medium,80.1%,50.0%
 53,https://leetcode.com/problems/maximum-subarray,Maximum Subarray,Medium,53.3%,62.5%
-54,https://leetcode.com/problems/spiral-matrix,Spiral Matrix,Medium,56.8%,50.0%
+54,https://leetcode.com/problems/spiral-matrix,Spiral Matrix,Medium,+,50.0%
 90,https://leetcode.com/problems/subsets-ii,Subsets II,Medium,61.3%,37.5%
 4,https://leetcode.com/problems/median-of-two-sorted-arrays,Median of Two Sorted Arrays,Hard,46.6%,75.0%
 118,https://leetcode.com/problems/pascals-triangle,Pascal's Triangle,Easy,78.9%,50.0%
