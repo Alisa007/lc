@@ -135,7 +135,7 @@ ID,URL,Title,Difficulty,Acceptance %,Frequency %
 197,https://leetcode.com/problems/rising-temperature,Rising Temperature,Easy,51.3%,37.5%
 200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,62.5%
 202,https://leetcode.com/problems/happy-number,Happy Number,Easy,59.7%,50.0%
-207,https://leetcode.com/problems/course-schedule,Course Schedule,Medium,51.4%,50.0%
+207,https://leetcode.com/problems/course-schedule,Course Schedule,Medium,+,50.0%
 209,https://leetcode.com/problems/minimum-size-subarray-sum,Minimum Size Subarray Sum,Medium,51.7%,37.5%
 210,https://leetcode.com/problems/course-schedule-ii,Course Schedule II,Medium,55.5%,37.5%
 213,https://leetcode.com/problems/house-robber-ii,House Robber II,Medium,44.9%,25.0%
@@ -186,7 +186,7 @@ ID,URL,Title,Difficulty,Acceptance %,Frequency %
 643,https://leetcode.com/problems/maximum-average-subarray-i,Maximum Average Subarray I,Easy,47.8%,37.5%
 658,https://leetcode.com/problems/find-k-closest-elements,Find K Closest Elements,Medium,49.7%,25.0%
 715,https://leetcode.com/problems/range-module,Range Module,Hard,45.0%,25.0%
-721,https://leetcode.com/problems/accounts-merge,Accounts Merge,Medium,61.3%,25.0%
+721,https://leetcode.com/problems/accounts-merge,Accounts Merge,Medium,+,25.0%
 733,https://leetcode.com/problems/flood-fill,Flood Fill,Easy,68.3%,25.0%
 735,https://leetcode.com/problems/asteroid-collision,Asteroid Collision,Medium,47.9%,25.0%
 739,https://leetcode.com/problems/daily-temperatures,Daily Temperatures,Medium,68.7%,37.5%
