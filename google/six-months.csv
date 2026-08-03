@@ -13,7 +13,7 @@ ID,URL,Title,Difficulty,Acceptance %,Frequency %
 54,https://leetcode.com/problems/spiral-matrix,Spiral Matrix,Medium,+,50.0%
 90,https://leetcode.com/problems/subsets-ii,Subsets II,Medium,+,37.5%
 4,https://leetcode.com/problems/median-of-two-sorted-arrays,Median of Two Sorted Arrays,Hard,46.6%,75.0%
-118,https://leetcode.com/problems/pascals-triangle,Pascal's Triangle,Easy,78.9%,50.0%
+118,https://leetcode.com/problems/pascals-triangle,Pascal's Triangle,Easy,+,50.0%
 124,https://leetcode.com/problems/binary-tree-maximum-path-sum,Binary Tree Maximum Path Sum,Hard,42.3%,37.5%
 128,https://leetcode.com/problems/longest-consecutive-sequence,Longest Consecutive Sequence,Medium,47.1%,62.5%
 130,https://leetcode.com/problems/surrounded-regions,Surrounded Regions,Medium,45.3%,37.5%
