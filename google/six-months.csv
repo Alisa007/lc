@@ -11,7 +11,7 @@ ID,URL,Title,Difficulty,Acceptance %,Frequency %
 48,https://leetcode.com/problems/rotate-image,Rotate Image,Medium,+,50.0%
 53,https://leetcode.com/problems/maximum-subarray,Maximum Subarray,Medium,+,62.5%
 54,https://leetcode.com/problems/spiral-matrix,Spiral Matrix,Medium,+,50.0%
-90,https://leetcode.com/problems/subsets-ii,Subsets II,Medium,61.3%,37.5%
+90,https://leetcode.com/problems/subsets-ii,Subsets II,Medium,+,37.5%
 4,https://leetcode.com/problems/median-of-two-sorted-arrays,Median of Two Sorted Arrays,Hard,46.6%,75.0%
 118,https://leetcode.com/problems/pascals-triangle,Pascal's Triangle,Easy,78.9%,50.0%
 124,https://leetcode.com/problems/binary-tree-maximum-path-sum,Binary Tree Maximum Path Sum,Hard,42.3%,37.5%
@@ -99,7 +99,7 @@ ID,URL,Title,Difficulty,Acceptance %,Frequency %
 74,https://leetcode.com/problems/search-a-2d-matrix,Search a 2D Matrix,Medium,53.9%,37.5%
 75,https://leetcode.com/problems/sort-colors,Sort Colors,Medium,69.6%,50.0%
 76,https://leetcode.com/problems/minimum-window-substring,Minimum Window Substring,Hard,47.5%,25.0%
-78,https://leetcode.com/problems/subsets,Subsets,Medium,82.3%,50.0%
+78,https://leetcode.com/problems/subsets,Subsets,Medium,+,50.0%
 79,https://leetcode.com/problems/word-search,Word Search,Medium,47.4%,37.5%
 84,https://leetcode.com/problems/largest-rectangle-in-histogram,Largest Rectangle in Histogram,Hard,49.9%,50.0%
 85,https://leetcode.com/problems/maximal-rectangle,Maximal Rectangle,Hard,58.8%,50.0%
